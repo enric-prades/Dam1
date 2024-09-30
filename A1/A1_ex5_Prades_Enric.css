@@ -21,37 +21,28 @@ div {
 h1 {
   text-align: center;
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 5em;
   margin-bottom: 30px;
   background: url('images/headbg.png') top left repeat;
-  padding: 10px 0;
-  color: (red);
+  padding: 10px 1;
+  color: red;
 }
-#references cite {
-  margin: 1em 0 0 3em;
-  text-indent: -3em;
-  display: block;
-  font-style: normal;
-  padding-right: 3px;
+h2 {
+    color: orange;
+    text-align: center;
 }
-.website {
-  border-right: 5px solid blue;
+p {
+    text-align: justify;
 }
-.book {
-  border-right: 5px solid red;
+.highlight {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 30px;
+    color: orange;    
 }
-.article {
-  border-right: 5px solid green;
-}
-#footer {
-  font-size: 0.5em;
-  border-top: 1px solid #000;
-  margin-top: 20px;
-}
-#footer a {
-  color: #000;
-  text-decoration: none;
-}
-#footer a:hover{
-  text-decoration: underline;
+h3 {
+  text-align: left;
+  font-weight: bold;
+  margin-top: 10px;
+  color: gray;
 }
